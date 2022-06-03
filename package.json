@@ -38,7 +38,7 @@
     "@angular-devkit/schematics": ">=6.0.0 <9 || ^9.0.0-0",
     "@angular/common": ">=6.0.0 <9 || ^9.0.0-0",
     "@angular/compiler": ">=6.0.0 <9 || ^9.0.0-0",
-    "@angular/core": ">=6.0.0 <9 || ^9.0.0-0",
+    "@angular/core": ">=6.0.0 <12 || ^9.0.0-0",
     "@angular/platform-browser": ">=6.0.0 <9 || ^9.0.0-0",
     "@angular/platform-browser-dynamic": ">=6.0.0 <9 || ^9.0.0-0",
     "@angular/router": ">=6.0.0 <9 || ^9.0.0-0",
